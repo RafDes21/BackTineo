@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "title": "tv LG",
+    "price": 6500,
+    "thumbnail": "https://www.lg.com/ec/images/tvs/md07504165/gallery/50UN7310_1100.jpg"
+}, {
+    "id": 2,
+    "title": "Heladera GAFA",
+    "price": 8500,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_655772-MLA48848757249_012022-O.jpg"
+}, {
+    "id": 3,
+    "title": "Cocina ELECTROLUX",
+    "price": 7200,
+    "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/683656-800-600?v=637772323325870000&width=800&height=600&aspect=true"
+}, {
+    "id": 4,
+    "title": "Horno eléctrico GRILL",
+    "price": 2500,
+    "thumbnail": "https://www.megatone.net/Images/Articulos/zoom2x/243/HOR0045CNQ.jpg"
+}]
