@@ -1,20 +1,26 @@
 [
-  {
-    "id": 1,
-    "title": "lavarropa pequeño",
-    "price": "54000",
-    "thumbnail": "lava.jpg"
-  },
-  {
-    "id": 2,
-    "title": "lavarropa grande",
-    "price": "54000",
-    "thumbnail": "lava.jpg"
-  },
-  {
-    "id": 3,
-    "title": "cocina",
-    "price": "45000",
-    "thumbnail": "https://www.longvie.com/files/product_attachment/attachment/3329/mini_21501X%20D.jpg"
-  }
+    {
+        "id": 1,
+        "title": "lavarropa pequeño",
+        "price": "54000",
+        "thumbnail": "lava.jpg"
+    },
+    {
+        "id": 2,
+        "title": "lavarropa grande",
+        "price": "54000",
+        "thumbnail": "lava.jpg"
+    },
+    {
+        "id": 3,
+        "title": "cocina",
+        "price": "45000",
+        "thumbnail": "https://www.longvie.com/files/product_attachment/attachment/3329/mini_21501X%20D.jpg"
+    },
+    {
+        "id": 4,
+        "title": "celular",
+        "price": "65000",
+        "thumbnail": "celular.jpg"
+    }
 ]
